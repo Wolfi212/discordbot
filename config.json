@@ -1,0 +1,15 @@
+{
+    "token": "MTM2MTgwNjA3MDAwNzIwNjAwOQ.GmKdiu.S-ACbPTgppdyf38ZJv9QxAs4cS2EIzMoyuKMYY",
+    "prefix": "!",
+    "welcome_channel_id": 1352951044362993695,
+    "ticket_category_id": 1352951047190085680,
+    "admin_role_id": 1013080525935747182,
+    "support_team_role_id": 1352951043755081823,
+    "ticket_message": "Willkommen im Support! Bitte beschreibe dein Problem und unser Team wird sich bald bei dir melden.",
+    "welcome_message": "Willkommen auf unserem Server, {member.mention}! Viel Spaß hier!",
+    "ticket_create_message": "Bitte gib einen Grund für dein Ticket an.",
+    "ticket_log_channel_id": 1361806840597446757,
+    "color": 0x00ff00,
+    "ticket_name_format": "ticket-{user}-{id}",
+    "auto_close_days": 3
+}
